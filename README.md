@@ -22,3 +22,15 @@
 落叶OCR的截图功能并非我自己造的轮子，而是借鉴了csdn上的一篇博文（[请点击这里](https://blog.csdn.net/frostime/article/details/104798861?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161182293516780262512266%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=161182293516780262512266&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_v2~rank_v29-27-104798861.pc_search_result_cache&utm_term=python%E6%88%AA%E5%9B%BE)）。落叶ocr的源码可自行下载修改以便交流学习，但转载引用等行为请标明出处。
 
 如果你有一些文档中没有说明的问题，欢迎提lssues或者联系我（邮箱：lstoryzx@126.com），我自学python没多久，而且也是第一次自己去做一个小工具，很期待与你交流。
+
+# 在本地运行源代码
+
+将仓库clone到本地之后，可以在本地运行落叶ocr的源码：
+
++ 创建一个新的虚拟环境，并且进入LYOCR文件夹下
+
++ 在此文件夹下打开命令行，安装依赖`pip install -r requirements.txt`
+
++ 运行lyocr.py文件`python lyocr.py`
+
+  

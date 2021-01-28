@@ -1,0 +1,23 @@
+{
+    "baiduapi": {
+        "APPID": "",
+        "APIKey": "",
+        "SecretKey": ""
+    },
+    "tencentapi": {
+        "SecretId": "",
+        "SecretKey": ""
+    },
+    "caiyunapi": {
+        "token": ""
+    },
+    "mathpixapi": {
+        "AppID": "",
+        "AppKey": ""
+    },
+    "bdfyapi": {
+        "AppID": "",
+        "AppKey": ""
+    },
+    "merge": "0"
+}

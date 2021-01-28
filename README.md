@@ -6,7 +6,7 @@
 
 落叶ocr目前仅支持windows平台（要开发mac版首先我得先有台mac   ╮（╯＿╰）╭）。
 
-<u>**落叶ocr使用技巧及相关问题见文档**</u>
+[<u>**落叶ocr使用技巧及相关问题见文档**</u>](https://lstoryzx.github.io/LYOCR/)
 
 项目地址：
 

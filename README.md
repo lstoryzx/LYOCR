@@ -13,7 +13,7 @@
 - [GitHub](https://github.com/lstoryzx/LYOCR)
 - [Gitee](https://gitee.com/lstoryzx/lyocr)
 
-在GitHub或者Gitee上可以直接下载压缩包解压即可使用。如果GitHub上下载太慢，可以安装**Tampermonkey** 脚本[GitHub增强-高速下载](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)，或者使用百度网盘：[链接请点击这里](https://pan.baidu.com/s/1Mn9g6gPSQV1VcnF0KuBq3w)，提取码为bkrn
+在GitHub或者Gitee上可以直接下载压缩包解压即可使用。如果GitHub上下载太慢，可以安装**Tampermonkey** 脚本[GitHub增强-高速下载](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)，或者使用百度网盘：[链接请点击这里](https://pan.baidu.com/s/1tPn4qjFJYFTUQXqxMmPqZQ)，提取码为h9x3
 
 落叶ocr使用python开发， 项目的LYOCR文件夹包含所有源码，用的pyinstaller打包。不含恶意代码，如果杀软报毒请加入白名单，不放心的话也可自行查看源代码。
 

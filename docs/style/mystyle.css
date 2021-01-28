@@ -1,0 +1,26 @@
+
+h2 span{
+    display:inline-block;
+    background: rgba(51, 185, 218, 0.788);
+    color:#ffffffe1 !important;
+    padding:  10px  16px;
+    border-radius:5px;
+    box-shadow: 2px 2px 5px rgb(19, 117, 134);
+}
+
+
+/* 引用块 */
+.markdown-section blockquote{
+    background: rgba(169, 218, 226, 0.384);
+    padding:10px;
+    border-radius:10px;
+}
+/* 置顶插件 */
+.to-top {
+    display: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    background-color: rgba(83, 199, 214, 0.842);
+}

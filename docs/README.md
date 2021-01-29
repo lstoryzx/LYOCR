@@ -11,7 +11,7 @@
 - GitHub：https://github.com/lstoryzx/LYOCR
 - Gitee：https://gitee.com/lstoryzx/lyocr
 
-在GitHub或者Gitee上可以直接下载。如果GitHub上下载太慢，可以使用百度网盘：，提取码为h9x3
+在GitHub或者Gitee上可以直接下载。如果GitHub上下载太慢，可以使用百度网盘：https://pan.baidu.com/s/1tPn4qjFJYFTUQXqxMmPqZQ，提取码为h9x3
 
 **<u>下载压缩包之后将解压得到的lyocr文件夹放到磁盘中任意你想放到的地方，例如放到D盘的根目录下（D:\），请记住保存的位置，以便日后查看路径，放到合适的路径之后，进入lyocr文件夹找到    应用程序lyocr.exe（由于设置不同，可能你电脑上的文件没有后缀，也就是没有.exe） 鼠标选中，右键点击发送到桌面快捷方式，之后返回桌面双击图标即可。</u>**
 

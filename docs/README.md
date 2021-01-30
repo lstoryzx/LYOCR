@@ -11,11 +11,11 @@
 - GitHub：https://github.com/lstoryzx/LYOCR
 - Gitee：https://gitee.com/lstoryzx/lyocr
 
-在GitHub或者Gitee上可以直接下载。如果GitHub上下载太慢，可以使用百度网盘：https://pan.baidu.com/s/1tPn4qjFJYFTUQXqxMmPqZQ ，提取码为h9x3
+在GitHub或者Gitee上可以直接下载。如果GitHub上下载太慢，可以使用百度网盘： ，提取码为h9x3
 
 **<u>下载压缩包之后将解压得到的lyocr文件夹放到磁盘中任意你想放到的地方，例如放到D盘的根目录下（D:\），请记住保存的位置，以便日后查看路径，放到合适的路径之后，进入lyocr文件夹找到    应用程序lyocr.exe（由于设置不同，可能你电脑上的文件没有后缀，也就是没有.exe） 鼠标选中，右键点击发送到桌面快捷方式，之后返回桌面双击图标即可。</u>**
 
-落叶ocr使用python开发， 项目的LYOCR文件夹包含所有源码，用的pyinstaller打包。不含恶意代码，如果杀软报毒请加入白名单，不放心的话也可自行查看源代码。软件没有离线识别引擎，要使用软件需自行申请百度、腾讯等平台的api接口（申请方法见文档），落叶ocr只是调用这写接口去实现文字识别，理论上来说用户使用的时候，所上传到相关平台服务器上的数据都是暂时的，但毕竟是别人家的，如果要识别的内容为商业或机密信息，请选用其他文字识别产品，且由此造成的损失与本人无关。落叶OCR的截图功能并非我自己造的轮子，而是借鉴了csdn上的一篇博文（[请点击这里](https://blog.csdn.net/frostime/article/details/104798861?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161182293516780262512266%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=161182293516780262512266&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_v2~rank_v29-27-104798861.pc_search_result_cache&utm_term=python%E6%88%AA%E5%9B%BE)）。落叶ocr的源码可自行下载修改以便交流学习，但转载引用等行为请标明出处。
+落叶ocr使用python开发， 项目的LYOCR文件夹包含所有源码，用的pyinstaller打包。可能会出现被Windows Defender或者杀软误删的情况，请将软件加入Windows Defender防病毒扫描排除项或杀软白名单，如果不放心可用查看源代码或自行用pyinstaller打包源码（打包后请在软件运行文件夹下放入logo.ico与api.json这两个文件，否则打包后无法运行）。软件没有离线识别引擎，要使用软件需自行申请百度、腾讯等平台的api接口（申请方法见文档），落叶ocr只是调用这写接口去实现文字识别，理论上来说用户使用的时候，所上传到相关平台服务器上的数据都是暂时的，但毕竟是别人家的，如果要识别的内容为商业或机密信息，请选用其他文字识别产品，且由此造成的损失与本人无关。落叶OCR的截图功能并非我自己造的轮子，而是借鉴了csdn上的一篇博文（[请点击这里](https://blog.csdn.net/frostime/article/details/104798861?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161182293516780262512266%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=161182293516780262512266&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_v2~rank_v29-27-104798861.pc_search_result_cache&utm_term=python%E6%88%AA%E5%9B%BE)）。落叶ocr的源码可自行下载修改以便交流学习，但转载引用等行为请标明出处。
 
 ## 在本地运行源代码
 

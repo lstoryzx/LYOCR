@@ -13,9 +13,9 @@
 - [GitHub](https://github.com/lstoryzx/LYOCR)
 - [Gitee](https://gitee.com/lstoryzx/lyocr)
 
-在GitHub或者Gitee上可以直接下载压缩包解压即可使用。如果GitHub上下载太慢，可以安装**Tampermonkey** 脚本[GitHub增强-高速下载](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)，或者使用百度网盘：[链接请点击这里](https://pan.baidu.com/s/1tPn4qjFJYFTUQXqxMmPqZQ)，提取码为h9x3
+在GitHub或者Gitee上可以直接下载压缩包解压即可使用。如果GitHub上下载太慢，可以安装**Tampermonkey** 脚本[GitHub增强-高速下载](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)，或者使用百度网盘：[链接请点击这里]()，提取码为h9x3
 
-落叶ocr使用python开发， 项目的LYOCR文件夹包含所有源码，用的pyinstaller打包。不含恶意代码，如果杀软报毒请加入白名单，不放心的话也可自行查看源代码。
+落叶ocr使用python开发， 项目的LYOCR文件夹包含所有源码，用的pyinstaller打包。可能会出现被Windows Defender或者杀软误删的情况，请将软件加入Windows Defender防病毒扫描排除项或杀软白名单，如果不放心可用查看源代码或自行用pyinstaller打包源码（打包后请在软件运行文件夹下放入logo.ico与api.json这两个文件，否则打包后无法运行）。
 
 软件没有离线识别引擎，要使用软件需自行申请百度、腾讯等平台的api接口（申请方法见文档），落叶ocr只是调用这写接口去实现文字识别，理论上来说用户使用的时候，所上传到相关平台服务器上的数据都是暂时的，但毕竟是别人家的，如果要识别的内容为商业或机密信息，请选用其他文字识别产品，且由此造成的损失与本人无关。
 
